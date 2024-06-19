@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "celo-blockchain-integration",
+  "version": "0.0.1",
+  "description": "test package for celo integrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keegan White",
+  "license": "ISC",
+  "dependencies": {
+    "@celo/contractkit": "^8.0.0",
+    "dotenv": "^16.4.5",
+    "web3": "1.10"
+  }
+}
